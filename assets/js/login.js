@@ -69,7 +69,7 @@ $(function() {
           // 跳转到后台主页
           location.href = '/code/index.html'
         }
-        })
+      })
 
     })
 })
